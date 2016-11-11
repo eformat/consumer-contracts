@@ -30,3 +30,16 @@ use swagger editor to generate server+client code, or edit api
     OR
 
     http://editor.swagger.io/#/
+
+relevant documentation
+
+    https://medium.com/@enxebre/gitlab-consumer-driven-contracts-helm-and-kubernetes-b7235a60a1cb#.371jbgxp2
+    http://martinfowler.com/articles/consumerDrivenContracts.html
+    https://github.com/realestate-com-au/pact/
+    https://vimeo.com/187097101?mc_cid=a021cae91b&mc_eid=842a346e2f
+    https://www.npmjs.com/package/consumer-contracts
+    https://www.npmjs.com/package/swagger-mock
+    http://blog.modulus.io/node.js-tutorial-how-to-use-request-module
+    https://github.com/hapijs/joi/blob/v9.2.0/API.md
+    http://chaijs.com/guide/styles/
+
