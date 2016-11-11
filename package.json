@@ -1,0 +1,31 @@
+{
+    "name": "consumer-contracts",
+    "version": "0.0.1",
+    "description": "consumer contract example",
+    "keywords": [
+        "api","consumer-contracts"
+    ],
+    "author": {
+        "name": "Mike Hepburn",
+        "url": "https://github.com/eformat/consumer-contracts"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/eformat/consumer-contracts",
+    "main": "README.md",
+    "scripts": {
+        "start": "node node_modules/consumer-contracts/lib/cli.js run",
+        "test": "mocha"
+    },
+    "dependencies": {
+        "consumer-contracts": "^1.4.0"
+    },
+    "devDependencies": {
+        "chai": "^3.5.0",
+        "codeclimate-test-reporter": "^0.3.0",
+        "istanbul": "^0.4.2",
+        "jshint": "^2.8.0",
+        "mocha": "^2.2.5",
+        "nock": "^7.0.2",
+        "sinon": "^1.17.3"
+    }
+}
